@@ -1,0 +1,6 @@
+{
+    "scriptName": "client.sh",
+    "distribName": "FROM ubuntu:17.10",
+    "hostEnvironmentVariable": "host",
+    "apiKeyAuthEnvironmentVariable": "token"
+}
