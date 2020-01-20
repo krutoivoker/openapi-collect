@@ -1,6 +1,4 @@
 # openapi-collect
-A set of scripts to get&amp;collect swagger\openapi definitions
-
 An idea was something like "I need to be informed about chages in API to be able to test it properly. I'm Feeling nervous without that" :D
 
 Contents:
