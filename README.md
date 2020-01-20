@@ -1,7 +1,7 @@
 # openapi-collect
 An idea was something like "I need to be informed about chages in API to be able to test it properly. I'm Feeling nervous without that" :D
 
-Contents:
+# Contents:
 
 convert.js - Required for building postman collection, uses npm package "swagger2-postman-generator".
 
