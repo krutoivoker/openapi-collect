@@ -1,5 +1,5 @@
 # openapi-collect
-An idea was to store and collect openapi definitions aka swagger-file to be able to track changes and automate an API a bit using shell scripts.
+An idea was to store and collect openapi definitions aka swagger-files to be able to track changes between versions and automate an API a bit using shell scripts.
 
 # Contents:
 api.sh - main script
