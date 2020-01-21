@@ -1,5 +1,5 @@
 # openapi-collect
-An idea was something like "I need to be informed about chages in API to be able to test it properly. I'm Feeling nervous without that" :D
+An idea was to store and collect openapi definitions aka swagger-file to be able to track changes and automate an API a bit using shell scripts.
 
 # Contents:
 api.sh - main script
