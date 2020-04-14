@@ -6,9 +6,7 @@ api.sh - main script
 
 convert.js - Required for building postman collection, uses npm package "swagger2-postman-generator".
 
-idiff.sh - Colorized diff between two files.
-
-Actually, npm-package "swagger-diff" is much better, but requires all errors to be fixed in swaggerfile (api.json) before processing it.
+idiff.sh - Colorized diff between two files. Better use zallek/swagger-diff and make sure that openapi definitions contains no errors
 
 swagger-codegen-cli.jar - A tool which generates API-client, can be obtained here: https://github.com/swagger-api/swagger-codegen
 
