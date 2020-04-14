@@ -12,6 +12,4 @@ Actually, npm-package "swagger-diff" is much better, but requires all errors to 
 
 swagger-codegen-cli.jar - A tool which generates API-client, can be obtained here: https://github.com/swagger-api/swagger-codegen
 
-config.json - swagger-codegen config for Dockerfile. 
-
-Shitty code, but worked for me more than a year :D 
+config.json - swagger-codegen config for Dockerfile.
