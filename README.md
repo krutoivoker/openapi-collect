@@ -8,6 +8,6 @@ convert.js - Required for building postman collection, uses npm package "swagger
 
 idiff.sh - Colorized diff between two files. Better use zallek/swagger-diff and make sure that openapi definitions contains no errors
 
-swagger-codegen-cli.jar - A tool which generates API-client, can be obtained here: https://github.com/swagger-api/swagger-codegen
+swagger-codegen-cli.jar - A tool which generates API-client, can be obtained here: swagger-api/swagger-codegen
 
 config.json - swagger-codegen config for Dockerfile.
