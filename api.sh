@@ -1,7 +1,7 @@
 echo "-----------------------------------------------------"
-echo "|ENV1: $(awk 'END{print}' cd/.vh)     |"
-echo "|ENV2: $(awk 'END{print}' cd2/.vh)    |"
-echo "|ENV3: $(awk 'END{print}' gms/.vh) |"
+echo "|ENV1: $(awk 'END{print}' env1/.vh)     |"
+echo "|ENV2: $(awk 'END{print}' emv2/.vh)    |"
+echo "|ENV3: $(awk 'END{print}' emv3/.vh) |"
 echo "-----------------------------------------------------"
 PS3='Choose: '
 options=("ENV1" "ENV2" "ENV3")
