@@ -1,13 +1,13 @@
 # openapi-collect
-An idea was to store and collect openapi definitions aka swagger-files to be able to track changes between versions, automate an API testing and finally generate shell-client to use it with Docker.
+Was built to track changes in API's that was coming to testing. It was really the only way to get the info while working as Backend QA Test Engineer for Skywind Group Byelorussia in 2017-2019.
 
 # Contents:
-api.sh - main script
+api.sh - Main script. Collects API's, displays colorized diff between versions of latest if no new version available.
 
 convert.js - Required for building postman collection, uses npm package "swagger2-postman-generator".
 
-idiff.sh - Colorized diff between two files. Better use zallek/swagger-diff and make sure that openapi definitions contains no errors
+idiff.sh - Colorized diff between two files.
 
-swagger-codegen-cli.jar - A tool which generates API-client, can be obtained here: swagger-api/swagger-codegen
+swagger-codegen-cli.jar - A tool which generates API-client, can be obtained in [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
 
 config.json - swagger-codegen config for Dockerfile.
