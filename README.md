@@ -1,5 +1,5 @@
 # openapi-collect
-Was built to track changes in API's that was coming to testing. It was really the only way to get the info while working as Backend QA Test Engineer for Skywind Group Byelorussia in 2017-2019.
+Was built to track changes in API's that was required to be tested. It was really the only way to get the info while working as Backend QA Test Engineer for Skywind Group Byelorussia in 2017-2019.
 
 # Contents:
 api.sh - Main script. Collects API's, displays colorized diff between versions of latest if no new version available.
